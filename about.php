@@ -1,0 +1,5 @@
+<?php $title='About'; include 'includes/header.php'; ?>
+<section class="page-h"><h1>About Us</h1></section>
+<section class="sec"><div class="wrap two"><div><h2>Our Story</h2><p>Glow Salon was started with one idea: everyone deserves to feel confident. Our team combines modern techniques with premium products to deliver hair, skin, nail and bridal services in a relaxing space.</p><br><p>Every tool is sanitised after each client, and every service begins with a short consultation so the result is personal to you.</p></div><img src="images/salon-interior.jpg" alt="Salon interior"></div></section>
+<section class="sec" style="background:#fff"><div class="wrap center"><h2>Our Promise</h2><div class="grid3" style="margin-top:25px"><div class="feat"><i>👩‍🎨</i><h3>Professional Stylists</h3></div><div class="feat"><i>🧴</i><h3>Quality Products</h3></div><div class="feat"><i>🛋️</i><h3>Comfortable Space</h3></div><div class="feat"><i>🎯</i><h3>Personalized Care</h3></div></div></div></section>
+<?php include 'includes/footer.php'; ?>
